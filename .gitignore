@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin
+/obj
+/NotesAPI/NotesAPI/bin/Debug/netcoreapp3.1
+/NotesAPI/NotesAPI/obj
+/NotesAPI/Notes.Services/obj
+/NotesAPI/Notes.Services/bin/Debug/netcoreapp3.1
+/NotesAPI/Notes.Repositories/obj
+/NotesAPI/Notes.Repositories/bin/Debug/netcoreapp3.1
+/NotesAPI/Notes.DTOs/obj
+/NotesAPI/Notes.DTOs/bin/Debug/netcoreapp3.1
+/NotesAPI/Notes.DAL/obj
+/NotesAPI/Notes.DAL/bin/Debug/netcoreapp3.1
+/NotesAPI/.vs/NotesAPI
